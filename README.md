@@ -22,4 +22,7 @@ Completar la mejora de mi presencia profesional (GitHub, GitHub Pages, CV y Link
 
 - [ResolviendoEjerciciosPostgreSQL](https://github.com/harold-20-06/ResolviendoEjerciciosPostgreSQL)
 - [Migracion_Postgresql-MongoDB](https://github.com/harold-20-06/Migracion_Postgresql-MongoDB)
+- [gestionDeVentas-maven-jdbc](https://github.com/harold-20-06/gestionDeVentas-maven-jdbc)
+- [GestionDeTareas-MyBatis-Rest-Jersey](https://github.com/harold-20-06/GestionDeTareas-MyBatis-Rest-Jersey)
+- [ecommerce-JPA-HIBERNATE-CFX-SOAP](https://github.com/harold-20-06/ecommerce-JPA-HIBERNATE-CFX-SOAP)
 - [Portafolio GitHub Pages](https://harold-20-06.github.io)
